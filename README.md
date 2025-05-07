@@ -1,0 +1,2 @@
+# succinct-dinoo
+mini game
